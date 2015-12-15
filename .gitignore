@@ -4,3 +4,13 @@ protected/runtime/*
 !protected/runtime/.gitignore
 protected/data/*.db
 themes/classic/views/
+.idea/.name
+.idea/Admin.iml
+.idea/encodings.xml
+.idea/encodings.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/modules.xml
+.idea/encodings.xml
